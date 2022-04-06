@@ -1,0 +1,49 @@
+.diana{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.uno{
+    background-color: red;
+    width: 700px;
+    height: 700px;
+}
+.dos{
+    background-color: white;
+    width: 600px;
+    height: 600px; 
+    }
+.tres{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+}
+.cuatro{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    
+}
+.cinco{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+.seis{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+}
+.siete{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
